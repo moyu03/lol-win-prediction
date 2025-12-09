@@ -51,7 +51,6 @@ lol-win-prediction/
 conda env create -f environment.yml
 激活环境
 conda activate lol-ml
-复制
 ```
 2. **使用pip**
 ```bash

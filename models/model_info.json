@@ -1,0 +1,22 @@
+{
+  "model_name": "XGBoost",
+  "accuracy": 0.9709458147213051,
+  "features": [
+    "tower_diff",
+    "dragon_diff",
+    "inhibitor_diff",
+    "baron_diff",
+    "red_gets_firstBlood",
+    "blue_gets_firstTower",
+    "red_gets_firstTower",
+    "blue_gets_firstDragon",
+    "red_gets_firstDragon",
+    "blue_gets_firstBaron",
+    "red_gets_firstBaron",
+    "blue_gets_firstInhibitor",
+    "red_gets_firstInhibitor",
+    "blue_gets_first_blood_and_tower",
+    "red_gets_first_blood_and_tower"
+  ],
+  "description": "英雄联盟胜率预测模型"
+}
